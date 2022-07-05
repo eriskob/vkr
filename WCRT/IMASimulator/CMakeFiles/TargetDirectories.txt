@@ -1,0 +1,15 @@
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/CMakeFiles/rebuild_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/CMakeFiles/edit_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/simulator/CMakeFiles/rebuild_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/simulator/CMakeFiles/edit_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/simulator/core/CMakeFiles/rebuild_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/simulator/core/CMakeFiles/edit_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/simulator/core/CMakeFiles/core.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/generator/CMakeFiles/rebuild_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/generator/CMakeFiles/edit_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/generator/generated_components/CMakeFiles/rebuild_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/generator/generated_components/CMakeFiles/edit_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/generator/generated_components/CMakeFiles/generated_components.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/generator/model_builder/CMakeFiles/rebuild_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/generator/model_builder/CMakeFiles/edit_cache.dir
+/Users/elizaveta/Downloads/CourseworkPubl-master/WCRT/IMASimulator/generator/model_builder/CMakeFiles/model_builder.dir
